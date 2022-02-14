@@ -45,9 +45,8 @@ In this project I will create a draggable view in screen. I pretend use this in 
 
 <!-- SCREENSHOTS -->
 ## 📸  SCREENSHOTS <a name="screenshots"></a>
-<!-- 
-<img src="https://github.com/PaoloProdossimoLopes/repository-template/blob/main/README_ASSETS/SIMULADOR_LOADER.png" height="300">                                 <img src="https://github.com/PaoloProdossimoLopes/repository-template/blob/main/README_ASSETS/SIMULADOR_HOME.png" height="300">                               
--->
+<img src="https://github.com/PaoloProdossimoLopes/swift-draggable-float-view-demo/blob/main/README_ASSETS/step1.gif" height="500">                                 <img src="https://github.com/PaoloProdossimoLopes/swift-draggable-float-view-demo/blob/main/README_ASSETS/step2.gif" height="500">                               
+
 <p align="right">(<a href="#top">BACK TO TOP</a>)</p>
 
 
