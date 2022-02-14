@@ -78,8 +78,8 @@ So that you can run the project follow this steps:
 ## ☑️  Roadmap
 
 - [X] Create project.
-- [ ] Implement draggable view.
-- [ ] Improve the source code.
+- [X] Implement draggable view.
+- [X] Improve the source code.
 
 See the [open issues](https://github.com/PaoloProdossimoLopes/swift-draggable-float-view-demo/issues) for a full list of proposed features (and known issues).
 
