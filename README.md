@@ -31,13 +31,15 @@ In this project I will create a draggable view in screen. I pretend use this in 
 <!-- Index -->
 ## 🔢  INDEX 
 1. [SCREENSHOTS](#screenshots)
-2. [GETTING STARTED](#getting-started)
+1. [GETTING STARTED](#getting-started)
     - [PREREQUISITES](#prerequisites)
     - [INSTALATION](#instalation)
     - [RUN](#run)
-3. [CONTRIBUTING](#contributing)
-4. [LICENSE](#license)
-5. [CONTACT](#contact)
+
+1. [ROADMAP](#roadmap)
+1. [CONTRIBUTING](#contributing)
+1. [LICENSE](#license)
+1. [CONTACT](#contact)
 
 
 
@@ -75,7 +77,7 @@ So that you can run the project follow this steps:
 
 
 <!-- ROADMAP -->
-## ☑️  Roadmap
+## ☑️  Roadmap <a name="roadmap"></a>
 
 - [X] Create project.
 - [X] Implement draggable view.
